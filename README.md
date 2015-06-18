@@ -1,6 +1,6 @@
 # Team Building
 
-A collection of links submitted by friends and colleagues.
+A list of team building material submitted by friends and colleagues.
 
 ## Posts
 

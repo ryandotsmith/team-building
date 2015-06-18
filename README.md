@@ -23,4 +23,3 @@ A list of team building material submitted by friends and colleagues.
 ## Blogs
 
 * [Model View Culture](https://modelviewculture.com/)
-* [People, Process and Profit](http://peopleprocessandprofit.com/)

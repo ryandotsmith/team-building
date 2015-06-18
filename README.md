@@ -12,3 +12,8 @@
 
 * [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/)
 * [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+* [Your Startup is Broken](https://model-view-culture.myshopify.com/products/your-startup-is-broken)
+* [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](http://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
+* [Peopleware: Productive Projects and Teams](http://www.amazon.com/Peopleware-Productive-Projects-Teams-Edition/dp/0321934113)
+* [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](http://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
+* [The Advantage: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/Advantage-Organizational-Everything-Business-Lencioni-ebook/dp/B006ORWT3Y)

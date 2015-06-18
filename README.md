@@ -1,4 +1,4 @@
-# team-building
+# Team Building
 
 ## Posts
 

@@ -24,3 +24,4 @@ A list of team building material submitted by friends and colleagues.
 * [The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 * [Startup advice: cold recruiting](https://stripe.com/blog/startup-advice-cold-recruiting)
 * [Stripe on-site interviews: what to expect](http://cl.ly/2X2m2z091C40/stripe-engineering-onsite.pdf)
+* [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)

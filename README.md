@@ -1,5 +1,7 @@
 # Team Building
 
+A collection of links submitted by friends and colleagues.
+
 ## Posts
 
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
